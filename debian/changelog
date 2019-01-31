@@ -1,3 +1,9 @@
+python-ldap (3.0.0-1bb1) unstable; urgency=low
+
+  * Applied patch from https://github.com/python-ldap/python-ldap/pull/262
+
+ -- KOVACS Krisztian <hidden@balabit.com>  Thu, 31 Jan 2019 10:16:53 +0100
+
 python-ldap (3.0.0-1) unstable; urgency=low
 
   * New upstream release

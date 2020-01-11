@@ -1,3 +1,11 @@
+python-ldap (3.0.0-1ubuntu0.1) bionic; urgency=medium
+
+  * Stop linking docs to python-ldap package, like it is done in later
+    releases. This drops python2 dependenices from the python3
+    package. LP: #1850283
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 11 Dec 2019 00:14:27 +0000
+
 python-ldap (3.0.0-1bb1) unstable; urgency=low
 
   * Applied patch from https://github.com/python-ldap/python-ldap/pull/262
